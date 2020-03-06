@@ -43,7 +43,7 @@ Dependencies 설치후 테스트 하시면 됩니다.
 ![스크린샷 2020-03-06 오후 7 47 04](https://user-images.githubusercontent.com/56405613/76077014-46e74d00-5fe3-11ea-91f7-1945f9d7e362.png)
 
 
-- 결제하기 버튼을 누르면 '구매가 완료되었습니다.'가 뜨고 장바구니가 비워집니다.
+- 결제하기 버튼을 누르면 '결제가 완료되었습니다.'가 뜨고 장바구니가 비워집니다.
 ![스크린샷 2020-03-06 오후 7 37 32](https://user-images.githubusercontent.com/56405613/76076473-4bf7cc80-5fe2-11ea-9f0a-debb7d88070d.png)
 
 
