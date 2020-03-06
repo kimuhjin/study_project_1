@@ -27,7 +27,7 @@ Dependencies 설치후 테스트 하시면 됩니다.
 
 - 데이터는 dummy 파일 방식으로 구성하였습니다.
 - 각 상품에는 장바구니 버튼이 있어서, 버튼을 누르면 장바구니에 상품이 추가됩니다.
-![스크린샷 2020-03-06 오후 7 36 38](https://user-images.githubusercontent.com/56405613/76076359-10f59900-5fe2-11ea-9e6a-28ed1ae82372.png)
+![스크린샷 2020-03-06 오후 7 45 50](https://user-images.githubusercontent.com/56405613/76076907-1ef7e980-5fe3-11ea-96a7-86aa087e6265.png)
 
 
 ### 장바구니 화면
